@@ -1,0 +1,24 @@
+* {
+	margin: 0;
+}
+
+#title {
+	padding-left: 40%;
+	padding-bottom: 10px;
+	border-bottom: 1px solid blue;
+}
+
+#add-event {
+	margin-left: 60px;
+	margin-top: 10px;
+	height: 40px;
+	width: 160px;
+}
+
+#list {
+	padding: 10px 10px;
+	margin-left: 40%;
+	margin-top: 5%;
+	background-color: orange;
+	width: 20%;
+}

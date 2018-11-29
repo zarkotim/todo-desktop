@@ -1,0 +1,25 @@
+body {
+	background-color: #636e72;
+}
+
+form input, button {
+	display: block;
+}
+form input, textarea {
+	margin: 10px 0 2px 5px;
+}
+
+#title {
+	padding-left: 40%;
+}
+
+form {
+	margin-left: 30%;
+	margin-top: 5%;
+	background-color: orange;
+	width: 50%;
+}
+
+#reset-btn {
+	display: inline;
+}
